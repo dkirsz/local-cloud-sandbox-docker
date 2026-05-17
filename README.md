@@ -70,6 +70,6 @@ After testing, destroy all provisioned resources:
    ```
 
 ## 📸 Deployment Proof (Screenshots)
-1. Terminal Success Confirmation (Terraform Apply Complete)
+ Terminal Success Confirmation (Terraform Apply Complete)
 <img width="484" height="45" alt="applycomplete" src="https://github.com/user-attachments/assets/3e9cd39e-834d-4db9-897b-e9364b825f2b" />
 
